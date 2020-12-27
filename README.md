@@ -5,18 +5,18 @@ onion eCommerce Marketplace Script
 
 Onion ecommerce script developer
 onion eCommerce Marketplace Script
- January 3, 2020  Anonymous
- 0 Comments
+
 
 onion eCommerce Marketplace Script V2.2
 This is a complete rewrite of my old script: onion eCommerce Marketplace Script. The two share some similarities (functional), but new version is written from scratch, meaning no code is shared between them.
 
 
 
-Contact details
-Demo website link onion eCommerce Marketplace Script
-Telegram: @develoerhacker  (Best way to reach me)
-Skype Name: live:tarun.zip_3 skype
+# Contact details
+# Demo website link onion eCommerce Marketplace Script https://demo.botdigit.com
+# Telegram: @develoerhacker  (Best way to reach me)
+# Skype Name: live:tarun.zip_3 skype
+
 🔥 Telegram Bot feature added DarkwebscriptBot🔥 additional $100
 About script
 
