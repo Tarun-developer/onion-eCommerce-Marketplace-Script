@@ -13,9 +13,9 @@ This is a complete rewrite of my old script: onion eCommerce Marketplace Script.
 
 
 # Contact details
-# Demo website link onion eCommerce Marketplace Script https://demo.botdigit.com
+# Demo website link onion eCommerce Marketplace Script https://demo.onionsearchengine.xyz/
 # Telegram: @develoerhacker  (Best way to reach me)
-# Skype Name: live:tarun.zip_3 skype
+
 
 🔥 Telegram Bot feature added DarkwebscriptBot🔥 additional $100
 About script
